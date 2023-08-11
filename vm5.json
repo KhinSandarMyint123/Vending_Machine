@@ -1,0 +1,9 @@
+{
+    "items": [
+      { "name": "Super Coffee", "price": 8900, "quantity": 5 },
+      { "name": "Premiere Coffee", "price": 6700, "quantity": 8 },
+      { "name": "Cheese Cake", "price": 9000, "quantity": 10 },
+      { "name": "Candy", "price": 2500, "quantity": 9 },
+      { "name": "Vasline Lotion", "price": 9300, "quantity": 2 }
+    ]
+  }

@@ -1,0 +1,9 @@
+{
+    "items": [
+      { "name": "CocaCola", "price": 1100, "quantity": 5 },
+      { "name": "5star Chicken", "price": 1700, "quantity": 8 },
+      { "name": "Book", "price": 700, "quantity": 10 },
+      { "name": "Ruler", "price": 500, "quantity": 3 },
+      { "name": "Eraser", "price": 300, "quantity": 2 }
+    ]
+  }

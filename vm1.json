@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "name": "Maymyo Fresh",
+            "price": 9100,
+            "quantity": 1
+        },
+        {
+            "name": "Shark ",
+            "price": 1800,
+            "quantity": 14
+        },
+        {
+            "name": "Soda",
+            "price": 1200,
+            "quantity": 20
+        },
+        {
+            "name": "Water",
+            "price": 700,
+            "quantity": 12
+        },
+        {
+            "name": "New Item 1",
+            "price": 1500,
+            "quantity": 8
+        },
+        {
+            "name": "New Item 2",
+            "price": 2000,
+            "quantity": 5
+        }
+    ]
+}

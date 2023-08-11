@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "name": "Dairymilk",
+            "price": 1200,
+            "quantity": 5
+        },
+        {
+            "name": "5star",
+            "price": 1700,
+            "quantity": 7
+        },
+        {
+            "name": "Perk",
+            "price": 7000,
+            "quantity": 10
+        },
+        {
+            "name": "Burger",
+            "price": 8500,
+            "quantity": 3
+        },
+        {
+            "name": "Pizza",
+            "price": 21000,
+            "quantity": 2
+        }
+    ]
+}

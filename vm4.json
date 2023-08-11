@@ -1,0 +1,9 @@
+{
+    "items": [
+      { "name": "Blueberry Cake", "price": 11000, "quantity": 5 },
+      { "name": "Premiere Coffee", "price": 6700, "quantity": 8 },
+      { "name": "Amico Cake", "price": 2700, "quantity": 10 },
+      { "name": "Milk Yougut Lotion", "price": 8500, "quantity": 9 },
+      { "name": "Clear Shampoo", "price": 8300, "quantity": 2 }
+    ]
+  }
